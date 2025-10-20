@@ -2,7 +2,10 @@
 
 
 A collection of optimizer-related papers and code. 
-This repository is inspired by [📘 zoq/Awesome-Optimizer](https://github.com/zoq/Awesome-Optimizer) and continuously updated with new optimizers and related resources.
+This repository is inspired by [📘 zoq/Awesome-Optimizer](https://github.com/zoq/Awesome-Optimizer) and continuously updated with new optimizers and related resources. 🚀✨  
+To help me learn more effectively, I will also provide classic PyTorch implementations 🧠💻 for many of them whenever possible.  
+Stay tuned! 🔔🔥
+
 
 For the last column, we let `GD` for Gradient Descent, `S` for second-order (quasi-newton) methods, `E` for evolutionary, `GF` for gradient free, `VR` for variance reduced.
 
